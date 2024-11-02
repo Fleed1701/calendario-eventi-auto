@@ -5,7 +5,8 @@
         "Descrizione Groq": "\"Preparatevi a lasciarvi incantare dalla voce d'angelo di Michele Bravi, mentre si esibisce in un'intima serata al Teatro Manzoni di Pistoia. Non perdere l'occasione di vivere un'esperienza indimenticabile, scegliendo tra la platea a 51.75 € o la galleria a 34.50 €. Appuntamento il 04 Ott, ti aspettiamo!\"",
         "Data": "4/10",
         "Orario": "21:00",
-        "Luogo": "Teatro Manzoni\nCorso Antonio Gramsci 127,\n51100 PISTOIA (PT)",
+        "Luogo": "Teatro Manzoni",
+        "Indirizzo": "Corso Antonio Gramsci 127,\n51100 PISTOIA (PT)",
         "Prezzo": "51.75 € - Platea\n34.50 € - Galleria ii Settore"
     },
     {
@@ -14,7 +15,8 @@
         "Descrizione Groq": "\"Vi invitiamo a immergervi nella magia della musica classica con l'Orchestra da Camera Fiorentina nel cuore di Firenze. Godetevi un'esperienza indimenticabile in un luogo storico, l'Auditorium di Santo Stefano al Ponte Vecchio. Prenotate i vostri biglietti ora e preparatevi a lasciarvi incantare da un'esibizione di alto livello, con prezzi che vanno dai 15.00 € ai 20.00 €. Non mancate l'occasione di far parte di questo vi",
         "Data": "Dal 6/10 al 7/10",
         "Orario": "21:00",
-        "Luogo": "Auditorium di Santo Stefano al Ponte Vecchio\nPiazza Santo Stefano 1,\n50122 FIRENZE (FI)",
+        "Luogo": "Auditorium di Santo Stefano al Ponte Vecchio",
+        "Indirizzo": "Piazza Santo Stefano 1,\n50122 FIRENZE (FI)",
         "Prezzo": "20.00 € - Massimo\n15.00 € - Minimo"
     },
     {
@@ -23,7 +25,8 @@
         "Descrizione Groq": "\"Rivivi l'intimità e la potenza della musica di Luciano Ligabue in un'esclusiva serata al Teatro Verdi di Firenze. Non perdere l'opportunità di assistere a un'esibizione indimenticabile, con posti limitati nei settori Primo e Quinto.\"",
         "Data": "9/10",
         "Orario": "21:00",
-        "Luogo": "Teatro Verdi\nVia Ghibellina 99,\n50122 FIRENZE (FI)",
+        "Luogo": "Teatro Verdi",
+        "Indirizzo": "Via Ghibellina 99,\n50122 FIRENZE (FI)",
         "Prezzo": "79.00 € - Quinto Settore\n99.00 € - Primo Settore"
     },
     {
@@ -32,7 +35,8 @@
         "Descrizione Groq": "\"Preparatevi a una notte indimenticabile di musica e passione mentre il leggendario Renato Zero fa tappa a Livorno con il suo imperdibile concerto evento! Non perdere l'opportunità di vivere un'esperienza intima e emozionante al Amedeo Modigliani Forum. Scegli il tuo posto oggi in II Settore a partire da 53.00 € o avvicinati al palco con i posti del I Anello a 90.10 €. Non vediamo l'ora di cantare insieme il 9 Ottobre!\"",
         "Data": "9/10",
         "Orario": "21:00",
-        "Luogo": "Amedeo Modigliani Forum\nVia Veterani dello Sport 8,\n57121 LIVORNO (LI)",
+        "Luogo": "Amedeo Modigliani Forum",
+        "Indirizzo": "Via Veterani dello Sport 8,\n57121 LIVORNO (LI)",
         "Prezzo": "53.00 € - Ii Settore\n90.10 € - I Anello"
     },
     {
@@ -41,7 +45,8 @@
         "Descrizione Groq": "\"Preparati a un'esperienza musicale senza pari il 12 Ottobre al Teatro Verdi di Firenze: Robert Plant, leggenda dei Led Zeppelin, si unisce a Saving Grace e Suzi Dian per una serata indimenticabile. Scegli tra il Settore Visibilità Limitata a 39.10 € o il Settore Numerato 1 a 98.90 € e lasciati trasportare dal potere della loro musica!\"",
         "Data": "12/10",
         "Orario": "21:00",
-        "Luogo": "Teatro Verdi\nVia Ghibellina 99,\n50122 FIRENZE (FI)",
+        "Luogo": "Teatro Verdi",
+        "Indirizzo": "Via Ghibellina 99,\n50122 FIRENZE (FI)",
         "Prezzo": "39.10 € - Settore Visibilita' Limitata\n98.90 € - Settore Numerato 1"
     },
     {
@@ -50,7 +55,8 @@
         "Descrizione Groq": "\"Rivivi l'emozione di ascoltare le indimenticabili hit di Luciano Ligabue in un'intima serata al Teatro Goldoni di Livorno. Non perdere l'opportunità di vivere un'esperienza indimenticabile a pochi passi dal palco, il 10 Ottobre!\"",
         "Data": "10/10",
         "Orario": "21:00",
-        "Luogo": "Teatro Goldoni\nVia Carlo Goldoni 51,\n57125 LIVORNO (LI)",
+        "Luogo": "Teatro Goldoni",
+        "Indirizzo": "Via Carlo Goldoni 51,\n57125 LIVORNO (LI)",
         "Prezzo": "79.00 € - Posti d'Ascolto\n99.00 € - Platea"
     },
     {
@@ -59,7 +65,8 @@
         "Descrizione Groq": "\"Preparati a lasciarti incantare dalla straordinaria performance di Rose Villain, una voce unica e potente che sta facendo vibrare il mondo della musica. Non perdere l'occasione di vederla dal vivo al Viper Theatre di Firenze, il 17 Ottobre. Un'esperienza musicale indimenticabile ti aspetta a soli 29.00 €. Non mancare!\"",
         "Data": "17/10",
         "Orario": "21:00",
-        "Luogo": "Viper Theatre\nVia Pistoiese 78,\n50145 FIRENZE (FI)",
+        "Luogo": "Viper Theatre",
+        "Indirizzo": "Via Pistoiese 78,\n50145 FIRENZE (FI)",
         "Prezzo": "29.00 €"
     },
     {
@@ -68,7 +75,8 @@
         "Descrizione Groq": "\"Preparatevi a cantare i vostri successi preferiti mentre Umberto Tozzi riporta le sue indimenticabili melodie al Nelson Mandela Forum di Firenze. Scegliete tra la Visione Ridotta a 39.00 € o l'emozione del Primo Settore a 85.00 € e lasciatevi travolgere da una serata all'insegna della musica italiana più amata!\"",
         "Data": "18/10",
         "Orario": "21:00",
-        "Luogo": "Nelson Mandela Forum\nViale Pasquale Paoli 2,\n50137 FIRENZE (FI)",
+        "Luogo": "Nelson Mandela Forum",
+        "Indirizzo": "Viale Pasquale Paoli 2,\n50137 FIRENZE (FI)",
         "Prezzo": "39.00 € - Visione Ridotta\n85.00 € - Primo Settore"
     },
     {
@@ -77,7 +85,8 @@
         "Descrizione Groq": "\"Rivivi l'era d'oro del jazz con la leggendaria Glenn Miller Orchestra al Teatro Verdi di Firenze! Preparatevi a una serata indimenticabile di musica swing e standard senza tempo che farà battere il vostro cuore. Acquista ora i biglietti per un'esperienza a partire da €29.90!\"",
         "Data": "19/10",
         "Orario": "20:45",
-        "Luogo": "Teatro Verdi\nVia Ghibellina 99,\n50122 FIRENZE (FI)",
+        "Luogo": "Teatro Verdi",
+        "Indirizzo": "Via Ghibellina 99,\n50122 FIRENZE (FI)",
         "Prezzo": "52.90 € - Massimo\n29.90 € - Minimo"
     },
     {
@@ -86,7 +95,8 @@
         "Descrizione Groq": "\"Preparatevi a una serata indimenticabile con la straordinaria Angelina Mango in concerto! Il 21 Ottobre, lasciatevi trasportare dalla sua voce unica e commovente al Teatro Cartiere Carrara (ex Tuscany Hall) di Firenze. Un'esperienza musicale da non perdere, acquistate i vostri biglietti ora!\"",
         "Data": "21/10",
         "Orario": "21:00",
-        "Luogo": "Teatro Cartiere Carrara (Ex Tuscany Hall)\nVia Fabrizio de Andrè 2,\n50136 FIRENZE (FI)",
+        "Luogo": "Teatro Cartiere Carrara (Ex Tuscany Hall)",
+        "Indirizzo": "Via Fabrizio de Andrè 2,\n50136 FIRENZE (FI)",
         "Prezzo": "39.10 € - Unico"
     },
     {
@@ -95,7 +105,8 @@
         "Descrizione Groq": "\"Preparati a una serata indimenticabile al Nelson Mandela Forum il 25 Ottobre, mentre la voce potente di Mahmood riempie lo spazio, regalandoti una performance che scalderà i tuoi cuori e farà ballare le vostre gambe. Non perdere l'opportunità di vivere un'esperienza musicale unica con questo artista talentuoso!\"",
         "Data": "25/10",
         "Orario": "21:00",
-        "Luogo": "Nelson Mandela Forum\nViale Pasquale Paoli 2,\n50137 FIRENZE (FI)",
+        "Luogo": "Nelson Mandela Forum",
+        "Indirizzo": "Viale Pasquale Paoli 2,\n50137 FIRENZE (FI)",
         "Prezzo": "Prezzo non disponibile"
     },
     {
@@ -104,7 +115,8 @@
         "Descrizione Groq": "\"Immergiti nell'universo musicale di Niccolò Fabi in una serata indimenticabile a Discoverland, presso il Teatro Dante Carlo Monni. Goditi le sue parole e la sua musica dal vivo, mentre ti trovi circondato da un'atmosfera intima e suggestiva. Scegli un posto in platea o sui palchi di secondo ordine e preparati a lasciarti trasportare dalle emozioni della sua performance live. Biglietti in vendita ora!\"",
         "Data": "25/10",
         "Orario": "21:00",
-        "Luogo": "Teatro Dante Carlo Monni\nPiazza Dante 23,\n50013 CAMPI BISENZIO (FI)",
+        "Luogo": "Teatro Dante Carlo Monni",
+        "Indirizzo": "Piazza Dante 23,\n50013 CAMPI BISENZIO (FI)",
         "Prezzo": "25.00 € - Palchi ii Ordine\n31.00 € - Platea"
     },
     {
@@ -113,7 +125,8 @@
         "Descrizione Groq": "\"Preparati a lasciarti incantare dal magnetismo di Diodato al Teatro Verdi di Firenze! Il 29 Ottobre, immergiti in un'esperienza indimenticabile con i suoi nuovi brani, disponibili a partire da soli 30.00 € per la Visibilità Ridotta e 45.00 € per il Secondo Settore.\"",
         "Data": "29/10",
         "Orario": "21:00",
-        "Luogo": "Teatro Verdi\nVia Ghibellina 99,\n50122 FIRENZE (FI)",
+        "Luogo": "Teatro Verdi",
+        "Indirizzo": "Via Ghibellina 99,\n50122 FIRENZE (FI)",
         "Prezzo": "45.00 € - Secondo Settore\n30.00 € - Visibilità Ridotta"
     },
     {
@@ -122,7 +135,8 @@
         "Descrizione Groq": "\"Immergiti nella magia della musica classica con il maestro Diego Ceretta che dirige l'Ort al Teatro Verdi di Firenze. Una serata indimenticabile di armonie sinfoniche che ti farà vibrare l'anima. Biglietti a partire da €18!\"",
         "Data": "30/10",
         "Orario": "21:00",
-        "Luogo": "Teatro Verdi\nVia Ghibellina 99,\n50122 FIRENZE (FI)",
+        "Luogo": "Teatro Verdi",
+        "Indirizzo": "Via Ghibellina 99,\n50122 FIRENZE (FI)",
         "Prezzo": "18.00 € - Ridotto\n22.00 € - Intero"
     },
     {
@@ -131,7 +145,8 @@
         "Descrizione Groq": "\"Immergiti nella magica atmosfera di una serata indimenticabile con il Federico Mecozzi Quartetto in concerto al Teatro di Fiesole. Lasciati incantare dalla melodia unica delle loro performance musicali e scegli tra il primo e il secondo settore a un prezzo conveniente. Non perdere questa occasione unica il 2 novembre!\"",
         "Data": "2/11",
         "Orario": "21:00",
-        "Luogo": "Teatro di Fiesole\nLargo Piero Farulli 1,\n50014 FIESOLE (FI)",
+        "Luogo": "Teatro di Fiesole",
+        "Indirizzo": "Largo Piero Farulli 1,\n50014 FIESOLE (FI)",
         "Prezzo": "20.00 € - I Settore\n15.00 € - Ii Settore"
     },
     {
